@@ -1,1 +1,1 @@
-# SharedSpace.
+# SharedSpace
